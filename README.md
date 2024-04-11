@@ -11,3 +11,10 @@ cmd 3 (end) :
 ```
 python3 chatgpt_setup.py
 ```
+end cmd :
+```
+exit
+```
+```
+bash
+```

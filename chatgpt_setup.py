@@ -3,7 +3,7 @@ import requests
 
 # Fungsi untuk mengirim teks ke ChatGPT API
 def chat_with_gpt(api_key, text):
-    endpoint = "https://platform.openai.com/docs/api-reference"
+    endpoint = "https://api.openai.com/v1/chat/completions"
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {api_key}"

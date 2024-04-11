@@ -20,7 +20,7 @@ def chat_with_gpt(api_key, text):
         return "Error communicating with ChatGPT API"
 
 # Fungsi untuk menambahkan file audio
-def add_audio_file(file_path):
+def add_audio_file("../././Trash/AUD-20240207-WA0007.mp3"):
     # Lakukan apa yang diperlukan untuk menambahkan file audio
     print(f"File audio '{file_path}' berhasil ditambahkan.")
 

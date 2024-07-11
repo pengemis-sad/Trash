@@ -18,3 +18,7 @@ exit
 ```
 bash
 ```
+cmd For Lins.py
+```
+git clone https://github.com/pengemis-sad/Trash.git && cd Trash && bash Lins.py
+```

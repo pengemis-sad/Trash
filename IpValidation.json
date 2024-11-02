@@ -15,10 +15,12 @@
     {
       "username": "MrGoodMan",
       "password": "TheDevOfTifaMd"
+      "salt": "uniqueSalt1"
     },
     {
       "username": "UserFree",
       "password": "YaFreeLah"
+      "salt": "uniqueSalt2"
     }
   ]
 }

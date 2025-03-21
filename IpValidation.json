@@ -1,9 +1,22 @@
 [
-    {
-        "OWNER": "RynorShade",
-        "EMAIL": "ronzdev01@gmail.com",
-        "ACCESS": true,
-        "USERNAME": "Rynor",
-        "PASSWORD": "SegaGoreng_123"
-    }
+       {
+           "OWNER": "RynorXavier",
+           "EMAIL": "ronzdev01@gmail.com",
+           "ACCESS": true,
+           "USERNAME": "Rynor",
+           "PASSWORD": "MieAyam_123",
+           "BANNED": false,
+           "BAN_REASON": null,
+           "MAINTENANCE": false
+       },
+       {
+           "OWNER": "RynShade",
+           "EMAIL": "ronzdraw@gmail.com",
+           "ACCESS": true,
+           "USERNAME": "ryn",
+           "PASSWORD": "RoniFansRenita",
+           "BANNED": false,
+           "BAN_REASON": null,
+           "MAINTENANCE": false
+       }
 ]
